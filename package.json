@@ -1,0 +1,26 @@
+{
+  "name": "df-chart",
+  "version": "1.0.0",
+  "description": "echarts packing lib ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cooking watch -p",
+    "build": "cooking build -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanct-DF/df-chart.git"
+  },
+  "author": "yelingfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chanct-DF/df-chart/issues"
+  },
+  "homepage": "https://github.com/chanct-DF/df-chart#readme",
+  "dependencies": {
+    "echarts": "^3.2.3",
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.4",
+    "vue": "^2.0.3"
+  }
+}
